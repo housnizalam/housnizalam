@@ -23,7 +23,7 @@ I enjoy building complete applications: designing interfaces, implementing busin
 | --- | --- | --- |
 | [**Take With You**](https://github.com/housnizalam/take-with-you) | Full-stack transport-request and trip-matching application with messaging | React, Node.js, Express, CouchDB, WebSocket |
 | [**Team Manager**](https://github.com/housnizalam/teammanager_php) | Football teams, players, league management and tournament workflows | PHP, MySQL, JavaScript, CSS |
-| [**GimUp**](https://github.com/housnizalam/gym_app) | Workout planning, exercise logging and muscle-load analysis | Flutter, Dart, Riverpod, Hive |
+| [**Gym App**](https://github.com/housnizalam/gym_app) | Workout planning, exercise logging and muscle-load analysis | Flutter, Dart, Riverpod, Hive |
 | [**Bewertung**](https://github.com/housnizalam/bewertung) | Weighted habit evaluation, calendar history, local storage and statistics | Flutter, Dart, Riverpod, Hive |
 | [**Math Runner**](https://github.com/housnizalam/math-runner) | Interactive arithmetic game with multiple answer modes and progressive levels | HTML, CSS, Vanilla JavaScript |
 | [**OOP Tutorial**](https://github.com/housnizalam/oop_tutorial) | 23 practical lessons covering object-oriented programming concepts in Dart | Dart, OOP |
